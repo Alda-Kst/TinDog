@@ -3,3 +3,8 @@ Start up landing page for a fictional application named TinDog.TinDog allows the
 
 ## Deployment
 You can check out a demo [here](https://alda-kst.github.io/TinDog/#cta).
+
+## Built Using
+- HTML
+- CSS
+- Bootstrap
